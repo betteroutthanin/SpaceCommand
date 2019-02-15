@@ -1,0 +1,24 @@
+Here -	!!! Look into this, it may have been done already
+		It appears that we can load objects from disk.  Need to sort out a way to ensure that
+		drive location is that of the parent.  Positions are special.  We will need special
+		Methods for them.  At present the drive looks directly at the ships position.  It would be
+		better to get/set the drive pos, but let the child look at the parent
+
+
+Here -	Work out how the scanners work, scanners must be able to have mixed responses, scanners will need
+		to drop old targets when they expire
+
+Todo - 	Game object report their pos instead of their parents pos, or make a drive function that
+
+Todo -	Get onwer ID system working
+
+Done -	Make the Universe move the objects. void->space, Space->Ship, Ship->Space,
+Done -	Load Universe from Disk
+Done -	Get Event system working again - drive has a good example of this
+Done -	Simple Drive Logic - with out event system
+Done -	Computer and terminal link
+Done -	The tick loop and server timing, might aswell add the the conifg model onto that
+Done -	Finalise the add module to slot system.
+Done -	Work out why the two locations have all the objects.  Reason - The dict object was defined the class
+		definition, and due to the python handles refenecing.  In short all the objects built from the location
+		class all shared the same dict object.

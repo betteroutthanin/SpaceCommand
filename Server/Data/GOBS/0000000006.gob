@@ -1,0 +1,5 @@
+Type = GameObjects.Modules.Computers.Computer.Computer
+Pos = 0.0@0.0@0.0
+ID = 6
+OwnerID = 3
+OwnerMarker = 1

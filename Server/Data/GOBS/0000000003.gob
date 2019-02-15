@@ -1,0 +1,5 @@
+Type = GameObjects.Ships.BigBoat.BigBoat
+Pos = 2.0@2.0@2.0
+ID = 3
+OwnerID = -1
+OwnerMarker = 1

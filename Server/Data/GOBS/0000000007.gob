@@ -1,0 +1,5 @@
+Type = GameObjects.Modules.Weapons.MiningLasers.MiningLaser.MiningLaser
+Pos = 0.0@0.0@0.0
+ID = 7
+OwnerID = 0
+OwnerMarker = 3

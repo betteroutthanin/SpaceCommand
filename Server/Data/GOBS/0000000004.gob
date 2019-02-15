@@ -1,0 +1,5 @@
+Type = GameObjects.Modules.Scanners.Scanner.Scanner
+Pos = 0.0@0.0@0.0
+ID = 4
+OwnerID = 0
+OwnerMarker = 2

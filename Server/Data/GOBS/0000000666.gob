@@ -1,0 +1,5 @@
+Type = GameObjects.Modules.Computers.Server.Server
+Pos = 100000000.0@0.0@0.0
+ID = 666
+OwnerID = -1
+OwnerMarker = 1

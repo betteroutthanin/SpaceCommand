@@ -1,0 +1,7 @@
+Type = GameObjects.Modules.Drives.Drive.Drive
+Pos = 0.0@0.0@0.0
+ID = 1
+OwnerID = 0
+OwnerMarker = 0
+Destination = 8@4@4
+Active = False
